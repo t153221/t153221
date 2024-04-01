@@ -4,7 +4,7 @@
 ## Links
 email : 22112116@yu.ac.kr
 
-
+### Bye 👋
 
 <!--
 **t153221/t153221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
