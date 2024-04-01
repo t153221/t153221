@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## introduction
-영남대학교 컴퓨터공학과 2학년
+영남대학교 컴퓨터공학과
 ## Links
 email : 22112116@yu.ac.kr
 
