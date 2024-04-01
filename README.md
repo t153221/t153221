@@ -1,4 +1,10 @@
 ### Hi there 👋
+##introduction
+영남대학교 컴퓨터공학과 2학년
+##Links
+email : 22112116@yu.ac.kr
+
+
 
 <!--
 **t153221/t153221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
