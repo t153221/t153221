@@ -1,9 +1,12 @@
 ### Hi there 👋
 ## introduction
 영남대학교 컴퓨터공학과
+## age
+2002.03.18
 ## Links
 email : 22112116@yu.ac.kr
-
+## Learining
+opensource, c++ coding
 ### Bye 👋
 
 <!--
